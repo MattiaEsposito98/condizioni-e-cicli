@@ -59,7 +59,7 @@
   // var_dump($giochi)
 
   echo $giochi[2]['nome'];
-
+  echo $giochi[1]['nome'];
 
   ?>
   <h3>link per cicli</h3>
